@@ -1,4 +1,5 @@
 fake key
+
 SHA256:xBy2dqnM5+jt/EAY6fJEdnTq9Lyp0+qh7TdeKrLp7fE
 
 # Welcome to the Exclude files from secret scanning exercise!
